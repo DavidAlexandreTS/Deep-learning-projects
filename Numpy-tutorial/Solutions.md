@@ -2,7 +2,7 @@
 - How to create an empty and a full NumPy array?
 <br>
 ***Testando como ficarão as respostas***
-<br>
+</br>
 - Create a Numpy array filled with all zeros
 - Create a Numpy array filled with all ones
 - Check whether a Numpy array contains a specified row
